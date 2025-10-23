@@ -1,5 +1,5 @@
 # C-programs
-This repository contains my c programming pracrice codes
+This repository contains my c programming practice codes
 It includes:
 - Basic programs(loops,conditions,functions)
 - Arrays and Pointers
