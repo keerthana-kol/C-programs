@@ -1,4 +1,4 @@
-//this program calculates the square of a given number entered by the user
+//this program calculates the square of a given number entered https://github.com/keerthana-kol/C-programs/tree/main/basicsby the user
 #include<stdio.h>
 int main()
 {
