@@ -15,3 +15,9 @@ int main()
 
     return 0;
 }
+/*sample output
+Enter a number: 10
+2 4 6 8 10
+
+*/
+
