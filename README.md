@@ -6,12 +6,12 @@ It includes:
 -bioinformatics related programs
 # All codes are for learning and practice purposes #
 C-programs/
-├── basics/
-├── if-else/
-├── loops/
-├── switch construct/
-├── array/
-└── README.md
+ basics/
+if-else/
+ loops/
+switch construct/
+array/
+README.md
 
 # 📘 Basic C Programs
 
