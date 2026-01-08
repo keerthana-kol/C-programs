@@ -21,6 +21,57 @@ These programs are useful for **college labs**, **practice**, and **building str
 ---
 
 ## 📂 Programs included:
+1. **Hello World**
+   - File: `01_hello.c`
+   - Description: Prints "Hello World" in C.
+
+2. **Input and Output**
+   - File: `02_input_output.c`
+   - Description: Demonstrates basic input and output using `scanf` and `printf`.
+
+3. **Area of Triangle**
+   - File: `03_area_of_triangle.c`
+   - Description: Calculates the area of a triangle by taking inputs from the user.
+
+4. **Simple Interest Calculator**
+   - File: `04_simple_interest_calculator.c`
+   - Description: Calculates simple interest using principal, rate, and time.
+
+5. **Square Calculator**
+   - File: `05_square_calculator.c`
+   - Description: Calculates the square of a given number.
+
+6. **Common Difference**
+   - File: `06_common_difference.c`
+   - Description: Finds the common difference of an arithmetic progression.
+
+7. **Nth Term of AP**
+   - File: `07_common_diff_1st_nthterm.c`
+   - Description: Calculates the nth term of an arithmetic progression.
+
+8. **Park Fencing Cost**
+   - File: `08_park_fencing_cost.c`
+   - Description: Calculates the cost required to fence a park.
+
+9. **Selling Price Calculation**
+   - File: `09_selling_price.c`
+   - Description: Calculates the selling price based on cost price and profit/loss.
+
+10. **Hours to Minutes Conversion**
+    - File: `10_hours_minutes.c`
+    - Description: Converts hours into minutes.
+
+11. **Days to Hours Conversion**
+    - File: `11_days_hours.c`
+    - Description: Converts days into hours.
+
+12. **Hours, Minutes, and Seconds Conversion**
+    - File: `12_hours_min_sec.c`
+    - Description: Converts total seconds into hours, minutes, and seconds.
+
+13. **Third Side of Triangle (Cosine Rule)**
+    - File: `13_third_side_of_triangle.c`
+    - Description: Finds the third side of a triangle using the cosine rule.
 
 
 📘 If–Else Programs in C
@@ -29,7 +80,8 @@ This folder contains C programs based on conditional statements (if, if-else, el
 These programs help in understanding decision-making logic in C programming.
 
 Each program solves a real-world or mathematical problem using conditional statements.
-📂Programs Included:
+
+**📂Programs Included:**
 1. **Divisible by 10**
    - File: `01_div_by_10.c`
    - Description: Checks whether a given number is divisible by 10 using if–else.
