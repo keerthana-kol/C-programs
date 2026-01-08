@@ -20,59 +20,52 @@ These programs are useful for **college labs**, **practice**, and **building str
 
 ---
 
-## 📂 List of Programs
+## 📂 Programs included:
 
-1. **Hello World**
-   - File: `01-hello.c`
-   - Description: Prints "Hello World" in C.
 
-2. **Input and Output**
-   - File: `02-input-output.c`
-   - Description: Demonstrates basic input and output using `scanf` and `printf`.
+📘 If–Else Programs in C
 
-3. **Area of Triangle**
-   - File: `03-area-of-triangle.c`
-   - Description: Calculates the area of a triangle by taking inputs from the user.
+This folder contains C programs based on conditional statements (if, if-else, else if).
+These programs help in understanding decision-making logic in C programming.
 
-4. **Simple Interest Calculator**
-   - File: `04-simple-interest-calculator.c`
-   - Description: Calculates simple interest using principal, rate, and time.
+Each program solves a real-world or mathematical problem using conditional statements.
+📂Programs Included:
+1. **Divisible by 10**
+   - File: `01_div_by_10.c`
+   - Description: Checks whether a given number is divisible by 10 using if–else.
 
-5. **Square Calculator**
-   - File: `05-square-calculator.c`
-   - Description: Calculates the square of a given number.
+2. **Positive or Negative Number**
+   - File: `02_negative_num.c`
+   - Description: Determines whether a number is positive, negative, or zero.
 
-6. **Difference Between Two Numbers**
-   - File: `06-common-difference.c`
-   - Description: Finds the difference between two numbers.
+3. **Straight Line Check**
+   - File: `03_straight_line.c`
+   - Description: Checks whether three given points lie on a straight line.
 
-7. **Nth Term Difference**
-   - File: `07-common-diff-1st-nthterm.c`
-   - Description: Calculates the common difference using the first term and nth term.
+4. **Real Circle or Not**
+   - File: `04_real_circle_or_not.c`
+   - Description: Determines whether a circle is real or imaginary based on the radius.
 
-8. **Park Fencing Cost**
-   - File: `08-park-fencing-cost.c`
-   - Description: Calculates the fencing cost for a rectangular park.
+5. **Right Angle Triangle**
+   - File: `05_right_angle_triangle.c`
+   - Description: Checks whether the given sides form a right-angled triangle.
 
-9. **Selling Price Calculator**
-   - File: `09-selling-price.c`
-   - Description: Calculates the selling price of a product.
+6. **Electricity Bill Calculation**
+   - File: `06_electricity_bill.c`
+   - Description: Calculates electricity bill based on the number of units consumed.
 
-10. **Hours to Minutes Conversion**
-    - File: `10-hours-minutes.c`
-    - Description: Converts hours into hours and minutes.
+7. **Character Type Checker**
+   - File: `07_char_type_checker.c`
+   - Description: Identifies whether a character is an alphabet, digit, or special character.
 
-11. **Days and Hours Conversion**
-    - File: `11-days-hours.c`
-    - Description: Converts total hours into days and remaining hours.
+8. **Largest of Three Numbers**
+   - File: `08_largest_of_three.c`
+   - Description: Finds the largest among three numbers using conditional statements.
 
-12. **Seconds Conversion**
-    - File: `12-hours-min-sec.c`
-    - Description: Converts total seconds into hours, minutes, and seconds.
+9. **Bonus Calculation**
+   - File: `09_bonus_calculation.c`
+   - Description: Calculates employee bonus based on salary and years of service.
 
-13. **Third Side of Triangle (Cosine Rule)**
-    - File: `13-third-side-of-triangle.c`
-    - Description: Finds the third side of a triangle using the cosine rule.
-
----
-
+10. **Arithmetic Operation**
+    - File: `10_arithmetic_operation.c`
+    - Description: Performs arithmetic operations based on user choice using if–else.
