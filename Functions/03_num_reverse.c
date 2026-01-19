@@ -35,10 +35,14 @@ int main()
 
     return 0; 
 }
-/*example
+/*example:
+input:
 Enter a number: 12345
+output:
 Reversed number: 54321
 ____________________________
+ input:
  Enter a number: 9080
+ output:
  Reversed number: 809
 */ 
