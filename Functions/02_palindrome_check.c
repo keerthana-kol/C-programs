@@ -37,11 +37,14 @@ int main()
 
     return 0;
 }
-/*example output
+/*example:
+input:
 Enter a string: madam
+output:
 Palindrome
 ___________________________
-
+input:
 Enter a string: hello
+output:
 Not a Palindrome
 */
