@@ -14,3 +14,11 @@ si=(p*t*r)/100;
 printf("simple interest = %d",si);
 return 0;
 }
+/*example:
+  input:
+Enter the principal amount : 1000
+Enter the rate of interest : 5
+Enter the time (in years) : 2
+  output:
+simple interest = 100
+  */
