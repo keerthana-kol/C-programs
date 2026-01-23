@@ -14,3 +14,11 @@ int main()
          printf("the common difference betweeen nth term and first term in an ap is :%d\n",cd);
          return 0;
 }
+/*example:
+   input:
+enter the first num : 15
+enter the nth term num : 45
+enter the num of terms : 7
+   output:
+the common difference betweeen nth term and first term in an ap is :5
+        */
