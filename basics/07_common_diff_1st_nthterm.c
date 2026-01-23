@@ -4,13 +4,16 @@
 int main()
 {
         int a1,an,n,cd;
+        //input
         printf("enter the first num : ");
         scanf("%d",&a1);
         printf("enter the nth term num : ");
         scanf("%d",&an);
         printf("enter the num of terms : ");
         scanf("%d",&n);
+        //to get the common difference between first and nth term.
          cd=(an-a1)/(n-1);
+        //output
          printf("the common difference betweeen nth term and first term in an ap is :%d\n",cd);
          return 0;
 }
