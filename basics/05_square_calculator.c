@@ -10,3 +10,9 @@ int main()
         printf("square of %d is %d",num,sqr);
         return 0;
 }
+/*example:
+  input:
+enter a number : 5
+  output:
+square of 5 is 25
+        */
